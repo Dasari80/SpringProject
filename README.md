@@ -1,2 +1,2 @@
 # SpringProject
-Sample Spring Project-REST API
+This is a Sample Spring Project with REST API
